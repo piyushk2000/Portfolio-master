@@ -1,17 +1,12 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="" target="_blank">Piyush</a>
+  <a href="" target="_blank">Piyush Kalyani</a>
 </h2>
 <br/>
 
-<center>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-</center>
-
 ## Built With
 
-My personal portfolio <a href="https://pk.vercel.app/" target="_blank">piyush.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://pk.vercel.app/" target="_blank">piyush.tech</a> which features some of my my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
