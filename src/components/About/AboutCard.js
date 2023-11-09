@@ -8,8 +8,8 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Hi Everyone, I am <span className="purple">Piyush Kalyani </span>
+            from <span className="purple"> Rajasthan, India.</span>
             <br /> I’m a curious individual with a knack for problem-solving. Having spent a year as a full-stack developer,
             I am now focused on pursuing a career in back-end development and AI. In addition to my technical
             skills, I have honed my leadership and teamwork abilities through managing business operations
