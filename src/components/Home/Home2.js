@@ -61,9 +61,9 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
-            <p>
+            {/* <p>
               Feel free to <span className="purple">connect </span>with me
-            </p>
+            </p> */}
             <p className="purple">
               +91 7849955225
             </p>
