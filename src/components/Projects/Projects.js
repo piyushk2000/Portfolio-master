@@ -11,7 +11,7 @@ function Projects() {
     <Container fluid className="project-section">
         
       <div className="ratio ratio-16x9" style={{ width: "50%", height: "50%", margin: "auto", display: "block" ,marginBottom:"40px" }}>
-        <iframe src="https://www.youtube.com/embed/xNRJwmlRBNU?si=hGRg9KKGVlEWDYGs" title="YouTube video player" allowFullScreen ></iframe>
+        <iframe src="https://www.youtube.com/embed/qepivEFTvwo?si=J2-M20IKJU_xDSVz" title="YouTube video player" allowFullScreen ></iframe>
       </div>
 
       <Particle />
